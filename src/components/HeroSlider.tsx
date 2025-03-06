@@ -5,24 +5,24 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const slides = [
   {
     id: 1,
-    image: 'https://images.unsplash.com/photo-1520223297779-95bbd1ea79b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=80',
-    title: 'Sustainable Water Solutions',
-    subtitle: 'Innovative technologies for a water-secure future',
-    cta: 'Explore Solutions'
+    image: 'https://liquidtree.s3.us-east-1.amazonaws.com/images/WhatsApp+Image+2024-03-19+at+06.15.33_0d9b0eca.jpg',
+    title: 'Breathing New Life into Urban Landscapes',
+    subtitle: 'Introducing the Liquid Tree - a revolutionary solution for cleaner air in dense urban environments.',
+    cta: 'Discover the Future'
   },
   {
     id: 2,
-    image: 'https://images.unsplash.com/photo-1468421870903-4df1664ac249?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=80',
-    title: 'Water Conservation',
-    subtitle: 'Helping businesses reduce water consumption by up to 70%',
-    cta: 'Learn How'
+    image: 'https://liquidtree.s3.us-east-1.amazonaws.com/images/WhatsApp+Image+2024-09-12+at+11.07.01_ec639307.jpg',
+    title: 'Cultivating Clean Air',
+    subtitle: 'Explore the science of bio-filtration and urban air purification with our cutting-edge Liquid Tree technology.',
+    cta: 'Be Part of the Solution'
   },
   {
     id: 3,
-    image: 'https://images.unsplash.com/photo-1527066236128-2ff79f7b9705?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=80',
-    title: 'Global Impact',
-    subtitle: 'Serving communities across 30+ countries worldwide',
-    cta: 'See Our Impact'
+    image: 'https://liquidtree.s3.us-east-1.amazonaws.com/images/WhatsApp+Image+2024-03-19+at+06.22.15_4dcabe4b.jpg',
+    title: 'Greener Cities, Healthier Lives',
+    subtitle: 'The Liquid Tree Project: Pioneering sustainable solutions for urban air purification.',
+    cta: 'Grow a Greener Tomorrow'
   }
 ];
 
