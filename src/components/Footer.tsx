@@ -71,7 +71,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-brand-green-medium mr-3" />
-                <span className="text-brand-green-light">info@liquidtree.com</span>
+                <span className="text-brand-green-light">hello@liquidtree.online</span>
               </li>
             </ul>
           </div>
